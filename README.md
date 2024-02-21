@@ -4,6 +4,6 @@ Added
   *  Queue
   *  Stack
   *  Array
-  *  Disctionary
+  *  Dictionary
 
 To Do
